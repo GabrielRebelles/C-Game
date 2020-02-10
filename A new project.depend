@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1464739032 source:f:\juego 2.0\a new project\main.c
+	<stdio.h>
+	<conio.h>
+	<DOS.H>
+	<STDLIB.h>
+	<windows.h>
+
+1465306688 source:i:\juego 2.0\a new project\main.c
+	<stdio.h>
+	<conio.h>
+	<DOS.H>
+	<STDLIB.h>
+	<windows.h>
+
